@@ -25,7 +25,7 @@ Po umieszczeniu poprawnie sformatowanych plików w folderze input, należy w ter
 ```
 python main.py
 ```
-Plik wynikowt, o nazwie 'output.csv' znajdzie się w folderze output
+Plik wynikowy, o nazwie 'output.csv' znajdzie się w folderze output
 
 # Pomoc
 W razie wątpliwości należy odnieść do oficjalnych instrukcji znajdujących się na [stronie Ministerstwa Finansów](http://www.finanse.mf.gov.pl/pl/pp/jpk).
