@@ -21,6 +21,11 @@ LiczbaWierszySprzedazy;PodatekNalezny;typZakupu;LpZakupu;NrDostawcy;NazwaDostawc
 W pliku wydatki jedna linijka odpowiada jednemu wpisowi
 
 ### Poprawnie sformatowane przykłady znajdują sie w folderze input
+Po umieszczeniu poprawnie sformatowanych plików w folderze input, należy w terminalu użyć komendy:
+```
+python main.py
+```
+Plik wynikowt, o nazwie 'output.csv' znajdzie się w folderze output
 
 # Pomoc
 W razie wątpliwości należy odnieść do oficjalnych instrukcji znajdujących się na [stronie Ministerstwa Finansów](http://www.finanse.mf.gov.pl/pl/pp/jpk).
